@@ -1,0 +1,96 @@
+newName	species	type	treatmentTime	cancer	primary	organ	cellName	Old name
+E.Br.20h.1	Homo_sapiens	epithelial	20h	1	0	breast	SkBr3	EB1
+E.Br.24h.1	Homo_sapiens	epithelial	24h	1	0	breast	MCF7	EB4
+E.Br.24h.2	Homo_sapiens	epithelial	24h	1	0	breast	MDA-MB-31	EB4
+E.Br.24h.3	Homo_sapiens	epithelial	24h	1	1	breast	primaryBreastCancerFragments	EB3
+E.Br.24h.4	Homo_sapiens	epithelial	24h	1	1	breast	primaryBreastCancerFragments	EB3
+E.Br.30d.1	Homo_sapiens	epithelial	30d	1	1	breast	primaryBreastCancer	EB2
+E.Br.50h.1	Homo_sapiens	epithelial	50h	1	0	breast	SkBr3	EB1
+E.Br.8h.1	Homo_sapiens	epithelial	8h	1	0	breast	SkBr3	EB1
+E.Corn.6h.1	Homo_sapiens	epithelial	6h	0	1	cornea	hTCEpi	ECorn1
+E.Liv.36h.1	Homo_sapiens	epithelial	36h	1	0	liver	HEPG2	ARR1
+E.Liv.8h.1	Homo_sapiens	epithelial	8h	1	0	liver	HEPG2	ARR1
+E.Lu.24h.1	Homo_sapiens	epithelial	24h	0	1	lung	AlveloarTypeIIcells	EL1
+E.Pan.3d.1	Homo_sapiens	epithelial	3d	1	1	pancrease	epithelial adenocarcinoma	EPan1
+E.Pan.7d.1	Homo_sapiens	epithelial	3d	1	1	pancrease	epithelial adenocarcinoma	EPan1
+E.Pr.24h.1	Homo_sapiens	epithelial	24h	1	0	prostate	LNCaP	EP2
+E.Pr.24h.2	Homo_sapiens	epithelial	24h	0	1	prostate	prostosphere	EP2
+E.Pr.24h.3	Homo_sapiens	epithelial	24h	1	0	prostate	RWPE1	EP1
+E.Pr.48h.1	Homo_sapiens	epithelial	48h	1	0	prostate	RWPE1	EP1
+E.Pr.48h.2	Homo_sapiens	epithelial	48h	1	0	prostate	LNCaP	EP3
+E.Pr.48h.3	Homo_sapiens	epithelial	48h	1	0	prostate	LNCaP	EP3
+E.Pr.6h.1	Homo_sapiens	epithelial	6h	1	0	prostate	RWPE1	EP1
+F.Co.48h.1	Homo_sapiens	fibroblast	48h	0	1	colon	colon fibroblasts	FCo1
+F.Co.48h.2	Homo_sapiens	fibroblast	48h	0	1	colon	colon fibroblasts	FCo1
+F.F.36h.1	Homo_sapiens	fibroblast	36h	0	1	toe	AG09309	ARR1
+F.F.36h.2	Homo_sapiens	fibroblast	36h	0	1	gum	AG09319	ARR1
+F.F.8h.1	Homo_sapiens	fibroblast	8h	0	1	toe	AG09309	ARR1
+F.F.8h.2	Homo_sapiens	fibroblast	8h	0	1	gum	AG09319	ARR1
+L.B.24h.1	Homo_sapiens	lymphocytic	24h	1	1	blood	B-cells	LB1
+L.B.36h.1	Homo_sapiens	lymphocytic	36h	0	1	blood	GM07019	ARR1
+L.B.36h.2	Homo_sapiens	lymphocytic	36h	1	1	blood	GM07348	ARR1
+L.B.36h.3	Homo_sapiens	lymphocytic	36h	1	1	blood	GM12878	ARR1
+L.B.36h.4	Homo_sapiens	lymphocytic	36h	1	1	blood	GM18054	ARR1
+L.B.36h.5	Homo_sapiens	lymphocytic	36h	0	1	blood	GM10855	LB2
+L.B.36h.6	Homo_sapiens	lymphocytic	36h	0	1	blood	GM10855	LB2
+L.B.36h.7	Homo_sapiens	lymphocytic	36h	0	1	blood	GM10861	LB2
+L.B.36h.8	Homo_sapiens	lymphocytic	36h	0	1	blood	GM10861	LB2
+L.B.8h.1	Homo_sapiens	lymphocytic	8h	0	1	blood	GM07019	ARR1
+L.B.8h.2	Homo_sapiens	lymphocytic	8h	1	1	blood	GM07348	ARR1
+L.B.8h.3	Homo_sapiens	lymphocytic	8h	1	1	blood	GM12878	ARR1
+L.B.8h.4	Homo_sapiens	lymphocytic	8h	1	1	blood	GM18054	ARR1
+L.Pbmc.24h.1	Homo_sapiens	myeloid	24h	0	1	blood	PBMCs	MMf9
+L.Pbmc.24h.2	Homo_sapiens	myeloid	24h	0	1	blood	PBMCs	MMf9
+L.Pbmc.2M.1	Homo_sapiens	lymphocytic	2M	0	1	blood	PBMCs	LTpbmc2
+L.Pbmc.6h.1	Homo_sapiens	lymphocytic/myeloid	6h	0	1	blood	PBMCs	LTPbmc1
+L.Pbmc.8h.1	Homo_sapiens	myeloid	8h	0	1	blood	PBMCs	MMf9
+L.Pbmc.8h.2	Homo_sapiens	myeloid	8h	0	1	blood	PBMCs	MMf9
+L.T.10d.1	Homo_sapiens	lymphocytic	10d	0	1	blood	T-cells	LT2
+L.T.2d.1	Homo_sapiens	lymphocytic	2d	0	1	blood	T-cells	LT1
+L.T.2d.2	Homo_sapiens	lymphocytic	2d	0	1	blood	T-cells	LT1
+L.T.2d.3	Homo_sapiens	lymphocytic	2d	0	1	blood	T-cells	LT1
+M.APC.12h.1	Homo_sapiens	myeloid	12h	0	1	blood	Monocyte-derived DCs	MDC1
+M.APC.12h.2	Homo_sapiens	myeloid	12h	0	1	blood	Monocyte-derived DCs	MDC2
+M.APC.18h.1	Homo_sapiens	myeloid	18h	0	1	blood	monocytes	MMf1
+M.APC.24h.1	Homo_sapiens	myeloid	24h	1	0	blood	THP-1	MMf2
+M.APC.24h.10	Homo_sapiens	myeloid	24h	0	1	blood	monocytes	MMf8
+M.APC.24h.2	Homo_sapiens	myeloid	24h	1	0	blood	THP-1	MMf2
+M.APC.24h.3	Homo_sapiens	myeloid	24h	0	1	blood	CD14+Monocytes	MMf3
+M.APC.24h.4	Homo_sapiens	myeloid	24h	1	0	blood	THP-1	MMf5
+M.APC.24h.5	Homo_sapiens	myeloid	24h	1	0	blood	THP-1	MMf5
+M.APC.24h.6	Homo_sapiens	myeloid	24h	1	0	blood	THP-1	MMf10
+M.APC.24h.7	Homo_sapiens	myeloid	24h	0	1	blood	monocytes	MMf8
+M.APC.24h.8	Homo_sapiens	myeloid	24h	0	1	blood	monocytes	MMf8
+M.APC.24h.9	Homo_sapiens	myeloid	24h	0	1	blood	monocytes	MMf8
+M.APC.3M	Homo_sapiens	myeloid	3.months	0	1	lung	alveolarMacrophage	MMf6
+M.APC.4h.1	Homo_sapiens	myeloid	4h	0	1	blood	CD14+Monocytes	MMf3
+M.APC.4h.2	Homo_sapiens	myeloid	4h	1	0	blood	THP-1	MMf11
+M.APC.5d.1	Homo_sapiens	myeloid	5d	0	1	blood	monocytes	MDC1
+M.APC.90min.1	Homo_sapiens	myeloid	90min	1	0	blood	THP-1	MMf7
+M.APC.90min.2	Homo_sapiens	myeloid	90min	1	0	blood	THP-1	MMf7
+M.Gran.36h.1	Homo_sapiens	myeloid	36h	1	0	blood	K562	ARR1
+M.Gran.8h.1	Homo_sapiens	myeloid	8h	1	0	blood	K562	ARR1
+M.Neutr.36h.1	Homo_sapiens	myeloid	36h	1	0	blood	HL60	ARR1
+M.Neutr.72h.1	Homo_sapiens	myeloid	72h	1	0	blood	HL60	MMf4
+M.Neutr.8h.1	Homo_sapiens	myeloid	8h	1	0	blood	HL60	ARR1
+Musc.Skel.24h.1	Homo_sapiens	muscle	24h	0	1	vastusLateralis	myoblasts	MuSk1
+Musc.Skel.48h.1	Homo_sapiens	muscle	48h	0	1	leg	skeletal muscle cells	MuSk2
+Musc.Smooth.24h.1	Homo_sapiens	muscle	24h	0	1	lung	bronchial smooth muscle cells	MuL1
+O.HSC.4h.1	Homo_sapiens	other	4h	0	1	umbilical cord	hematopoieticStemCells	HSC1
+O.Test.24h.1	Homo_sapiens	other	24h	0	1	testes	testicularCells	Test1
+O.Test.24h.2	Homo_sapiens	other	24h	0	1	urol	testicularCells	Test1
+e.Co.3M.1	Mus musculus	epithelial	3M	0	1	colon	intestinalEpithelium	ei1
+e.Co.3M.2	Mus musculus	epithelial	3M	0	1	colon	intestinalEpithelium	ei1
+e.Co.6h.1	Mus musculus	epithelial	6h	0	1	duodenum	epithelium	eco1
+e.Co.6h.2	Mus musculus	epithelial	6h	0	1	duodenum	epithelium	eco1
+e.Pr.12h.1	Mus musculus	epithelial	12h	1	1	prostate	prostateCancer	ep1
+e.Pr.24h.1	Mus musculus	epithelial	24h	1	1	prostate	prostateCancer	ep1
+f.Pan.3d.1	Mus musculus	fibroblast	3d	0	1	pancrease	myofibroblasts	fpan1
+m.APC.24h.1	Mus musculus	myeloid	24h	0	1	bone marrow BMDCq	BMDC	mmf1
+m.APC.24h.2	Mus musculus	myeloid	24h	0	1	bone marrow BMDCq	BMDC	mmf1
+n.Glial.4d.1	Mus musculus	neuronal	4d	0	1	brain	glial cells	neu1
+o.SC.48h.1	Mus musculus	other	48h	0	1	prostate	prostate progenitor cells	sc1
+o.SC.6h.1	Mus musculus	other	6h	0	1	prostate	prostate progenitor cells	sc1
+m.APC.1h.1	Mus musculus		1h	0	1	bone marrow BMDCq	BMDC	mdc1
+m.APC.1h.2	Mus musculus		1h	0	1	bone marrow BMDCq	BMDC	mdc1
+
