@@ -1,0 +1,217 @@
+"dataset"	"FC"	"Gene.Name"	"Gene.ID"	"P.Value"	"species"	"type.x"	"treatmentTime"	"cellName"	"sex"	"GEOlink"	"papers"	"GEO"
+"E.Pr.24h.1"	-1.62932728185937	"ABCG1"	"9619"	0.00141867322621629	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	-1.68777773633791	"ABCG1"	"9619"	7.72096834092799e-06	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	-1.93202453612971	"ABCG1"	"9619"	2.55750851118016e-07	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	-2.17438276486481	"ABCG1"	"9619"	1.64874259966298e-08	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.HN.24h.1"	4.53974077	"ARHGEF28"	"64283"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	4.023145602	"ARHGEF28"	"64283"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.59777409	"ARHGEF28"	"64283"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	2.921086863	"ARHGEF28"	"64283"	0.930349438	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.182832126	"ARHGEF28"	"64283"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.272841784	"ARHGEF28"	"64283"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	2.00986319596389	"ARHGEF28"	"64283"	0.0191836918839517	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Br.20h.1"	2.06992860615504	"CDA"	"978"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.4703595883586	"CDA"	"978"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.27864134987429	"CDA"	"978"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.45537389	"CDA"	"978"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	1.54382164502837	"CDA"	"978"	0.000564953240149461	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	4.29564610380739	"CDA"	"978"	6.09694752427535e-10	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	4.8481627720068	"CDA"	"978"	1.36542287249062e-10	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	2.73116146684359	"CDA"	"978"	3.68352120058678e-07	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	4.5141923326517	"CLMN"	"79789"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	1.78049025724072	"CLMN"	"79789"	0.0863509445124528	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	1.78049025724072	"CLMN"	"79789"	0.0863509445124528	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.24h.4"	1.35423298108114	"CLMN"	"79789"	0.0563799442265287	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	5.33923882456711	"CLMN"	"79789"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	6.02673135148693	"CLMN"	"79789"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.820119836	"CLMN"	"79789"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	2.386566851	"CLMN"	"79789"	0.378371517	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	2.546675627	"CLMN"	"79789"	0.152808268	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.1"	2.3898814310055	"CLMN"	"79789"	0.000251656066706032	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	2.94951125406894	"CLMN"	"79789"	8.40858553855458e-08	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.6h.1"	3.92613289658802	"CLMN"	"79789"	3.03010262018485e-07	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	7.33380556073422e+49	"CYP24A1"	"1591"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.1"	1.50077311351302	"CYP24A1"	"1591"	0.000230587617440216	"Homo_sapiens"	"epithelial"	"24h"	"MCF7"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.2"	129.208756746063	"CYP24A1"	"1591"	4.32717830785661e-08	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	129.208756746063	"CYP24A1"	"1591"	4.32717830785661e-08	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.24h.4"	12.9548403596674	"CYP24A1"	"1591"	6.82678457110199e-05	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	7.6301637493914e+64	"CYP24A1"	"1591"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	6.64540902038499e+51	"CYP24A1"	"1591"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	18.51455442	"CYP24A1"	"1591"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	52.3429782565435	"CYP24A1"	"1591"	1.01111779695294e-07	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.1"	438.362328115199	"CYP24A1"	"1591"	2.20518968031379e-10	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	113.240807028661	"CYP24A1"	"1591"	1.19127188806735e-13	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	26.5007422232076	"CYP24A1"	"1591"	1.57876642289992e-13	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	22.7332078447566	"CYP24A1"	"1591"	4.19047953234447e-13	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	286.351609585063	"CYP24A1"	"1591"	1.56465138596828e-18	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	3.17083882641581	"EFL1"	"79631"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	2.03333578859621	"EFL1"	"79631"	0.00792383159185407	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	2.03333578859621	"EFL1"	"79631"	0.00792383159185407	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.24h.4"	1.56906982259569	"EFL1"	"79631"	0.0699437295919559	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	3.72806379855709	"EFL1"	"79631"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	4.652115645783	"EFL1"	"79631"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	9.521727202	"EFL1"	"79631"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	2.5369579728552	"EFL1"	"79631"	0.00139680395087261	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.3"	1.70519506310011	"EFL1"	"79631"	3.89445452485636e-06	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	1.75109964704602	"EFL1"	"79631"	1.93097363968557e-06	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	4.00003895322356	"EFL1"	"79631"	1.47354248517586e-13	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.24h.1"	3.00288322196942	"EFTUD1"	"79631"	3.89212337472167e-06	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	2.76972276663039	"EFTUD1"	"79631"	5.41505009305302e-08	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Br.20h.1"	2.41866169858916	"FBLIM1"	"54751"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.13310279549738	"FBLIM1"	"54751"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.39782826406063	"FBLIM1"	"54751"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	3.957922026	"FBLIM1"	"54751"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.225444267	"FBLIM1"	"54751"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.964536769	"FBLIM1"	"54751"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.3"	1.52892422452643	"FBLIM1"	"54751"	6.32625498310538e-06	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	1.58101098256645	"FBLIM1"	"54751"	2.14634340474691e-06	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	2.16626741850701	"FBLIM1"	"54751"	3.17678602125664e-10	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.37330833222623	"FTH1"	"2495"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.1"	1.65294857376543	"FTH1"	"2495"	0.02096703139075	"Homo_sapiens"	"epithelial"	"24h"	"MCF7"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.50h.1"	3.0244931375147	"FTH1"	"2495"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.23879103841019	"FTH1"	"2495"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Pr.24h.2"	1.7388515373103	"FTH1"	"2495"	0.000299290291350927	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	2.11995766407944	"FTH1"	"2495"	1.00962936789825e-10	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	2.2772312211342	"FTH1"	"2495"	1.74310870245255e-11	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	1.54442669207171	"FTH1"	"2495"	1.25084141502147e-06	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.24489162281375	"G0S2"	"50486"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	2.54069267907193	"G0S2"	"50486"	0.00351789693935689	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	2.54069267907193	"G0S2"	"50486"	0.00351789693935689	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.24h.4"	1.61649989214427	"G0S2"	"50486"	0.0932415401283879	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.HN.24h.1"	3.55110367	"G0S2"	"50486"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	1.72543809306814	"G0S2"	"50486"	0.0239168768598754	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.2"	2.7592370195966	"G0S2"	"50486"	3.44409884844519e-08	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.6h.1"	5.84229477249727	"G0S2"	"50486"	2.81719708830431e-13	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	4.14875571799951	"G6PD"	"2539"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	4.02893986926399	"G6PD"	"2539"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.73765049594768	"G6PD"	"2539"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.422516378	"G6PD"	"2539"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	2.39575378380613	"G6PD"	"2539"	0.00141862253832017	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.1"	4.1537689549871	"G6PD"	"2539"	4.48340091716785e-06	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	3.92274876988316	"G6PD"	"2539"	3.44784881590443e-08	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	4.99286133127537	"G6PD"	"2539"	2.1084346261507e-15	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	4.37579663895409	"G6PD"	"2539"	1.26280118382592e-14	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	2.74972684238216	"G6PD"	"2539"	2.60080937718904e-11	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.61710897365945	"GRK5"	"2869"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	2.10222124664036	"GRK5"	"2869"	0.00937412833164256	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	2.10222124664036	"GRK5"	"2869"	0.00937412833164256	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	2.54634755129489	"GRK5"	"2869"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.81604184526407	"GRK5"	"2869"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.366896324	"GRK5"	"2869"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	1.32881531606428	"GRK5"	"2869"	0.0908723665327188	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.1"	3.01041953966359	"GRK5"	"2869"	4.77063232927909e-06	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.6h.1"	1.7460948475351	"GRK5"	"2869"	5.1447949840067e-05	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.23927283358696	"IL1RL1"	"9173"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	3.94695977761711	"IL1RL1"	"9173"	0.000260036377551135	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	3.94695977761711	"IL1RL1"	"9173"	0.000260036377551135	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	2.4349416962649	"IL1RL1"	"9173"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.27904301116079	"IL1RL1"	"9173"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	6.260288239	"IL1RL1"	"9173"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	12.26373348	"IL1RL1"	"9173"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	4.666311182	"IL1RL1"	"9173"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	4.87154758362498	"IL1RL1"	"9173"	4.21575763615765e-07	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Br.20h.1"	2.74472604859564	"KIF26A"	"26153"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.73115522853583	"KIF26A"	"26153"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.7182060743033	"KIF26A"	"26153"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	3.100482951	"KIF26A"	"26153"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.023710513	"KIF26A"	"26153"	0.930349438	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	1.98076185228382	"KIF26A"	"26153"	4.72229556358722e-06	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	1.58041185030528	"KIF26A"	"26153"	1.45133587037005e-05	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	1.65427618070959	"KIF26A"	"26153"	3.93923562220925e-06	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	2.04146094903444	"KIF26A"	"26153"	1.57613590294767e-08	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.24h.1"	-1.76078895659175	"KITLG"	"4254"	0.00118122309153072	"Homo_sapiens"	"epithelial"	"24h"	"MCF7"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.HN.24h.1"	-3.666434661	"KITLG"	"4254"	0.930349438	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	-3.29607509	"KITLG"	"4254"	0.152808268	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	-4.17118193	"KITLG"	"4254"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.1"	-1.50213597105441	"KITLG"	"4254"	0.0107428766483143	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	-1.51797435478504	"KITLG"	"4254"	0.00250320338761253	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Br.20h.1"	3.18127624889273	"PADI3"	"51702"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.69072875336141	"PADI3"	"51702"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.84908583413617	"PADI3"	"51702"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.104603987	"PADI3"	"51702"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	10.6074369639161	"PADI3"	"51702"	4.2603491869349e-10	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	7.20420158598527	"PADI3"	"51702"	1.34230009169484e-14	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	6.02090678728321	"PADI3"	"51702"	9.61111253209734e-14	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	11.9698935023196	"PADI3"	"51702"	1.08381079811478e-16	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.18696998860623	"PDPN"	"10630"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.17880182241629	"PDPN"	"10630"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.40309897906737	"PDPN"	"10630"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	3.606379599	"PDPN"	"10630"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	2.85940736	"PDPN"	"10630"	0.930349438	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.178566882	"PDPN"	"10630"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	3.50713170240316	"PDPN"	"10630"	2.57264374322549e-07	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	1.52366665400786	"PDPN"	"10630"	1.65778601281754e-08	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	2.07694451782809	"PDPN"	"10630"	5.59541208854289e-10	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.03890748667696	"PIK3R1"	"5295"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	1.34299796138017	"PIK3R1"	"5295"	0.0998287141206699	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	1.34299796138017	"PIK3R1"	"5295"	0.0998287141206699	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	2.00595082271742	"PIK3R1"	"5295"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.05133647926966	"PIK3R1"	"5295"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	3.633462753	"PIK3R1"	"5295"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.230142754	"PIK3R1"	"5295"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.327833777	"PIK3R1"	"5295"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.1"	2.85954831295696	"RGNEF"	"64283"	4.43087950992533e-05	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	1.58418874088457	"RGNEF"	"64283"	5.2363402625681e-05	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Br.20h.1"	3.79800811307678	"SEMA3B"	"7869"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	6.75948145790018	"SEMA3B"	"7869"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	3.51435476172289	"SEMA3B"	"7869"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	6.539976419	"SEMA3B"	"7869"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	4.42329248538825	"SEMA3B"	"7869"	1.42806185348907e-07	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	3.27232696028819	"SEMA3B"	"7869"	3.49902493861634e-11	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	3.30149331235048	"SEMA3B"	"7869"	3.02827307834003e-11	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	3.97988523837437	"SEMA3B"	"7869"	1.72169628692281e-12	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	4.28859024533127	"SERPINB1"	"1992"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	2.03500841065381	"SERPINB1"	"1992"	0.00170782848215764	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	2.03500841065381	"SERPINB1"	"1992"	0.00170782848215764	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	6.97935205004595	"SERPINB1"	"1992"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	6.19208216635014	"SERPINB1"	"1992"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	5.85407177	"SERPINB1"	"1992"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.665559202	"SERPINB1"	"1992"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	6.438574812	"SERPINB1"	"1992"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	1.48584987893733	"SERPINB1"	"1992"	0.00393714875524379	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.24h.2"	2.79435294109096	"SERPINB1"	"1992"	3.50497388619699e-07	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.48h.1"	1.70203444080057	"SERPINB1"	"1992"	1.20695164959088e-07	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	5.13688053181407	"SERPINB1"	"1992"	1.02684035774725e-13	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	3.52704418641953	"TCEA2"	"6919"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	4.09360100107734	"TCEA2"	"6919"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	3.35152224182162	"TCEA2"	"6919"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.187484576	"TCEA2"	"6919"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	1.74912288022567	"TCEA2"	"6919"	1.57254570328688e-05	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	1.59504229172007	"TCEA2"	"6919"	0.000251095325847176	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	1.608452201619	"TCEA2"	"6919"	0.000207340243008659	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.2"	1.50727428787534	"TCEA2"	"6919"	0.00487475027927135	"Homo_sapiens"	"epithelial"	"48h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17461"	"PMID: 21592394"	"GSE23815"
+"E.Br.20h.1"	3.95095427168241	"THBD"	"7056"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	2.25260964055863	"THBD"	"7056"	0.0779860688087309	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	2.25260964055863	"THBD"	"7056"	0.0779860688087309	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	11.0159554117456	"THBD"	"7056"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	4.38316483024387	"THBD"	"7056"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Pr.24h.1"	2.14266349570813	"THBD"	"7056"	0.005064564075377	"Homo_sapiens"	"epithelial"	"24h"	"LNCaP"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.2"	5.11823449376426	"THBD"	"7056"	1.32097413204518e-08	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.24h.3"	2.1941096845577	"THBD"	"7056"	7.1850486529836e-09	"Homo_sapiens"	"epithelial"	"24h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.48h.1"	1.98150232547459	"THBD"	"7056"	3.11587442312285e-07	"Homo_sapiens"	"epithelial"	"48h"	"RWPE1"	NA	NA	NA	NA
+"E.Pr.6h.1"	5.38594938467832	"THBD"	"7056"	2.28518942044198e-15	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	3.88106024382984	"TRIM56"	"81844"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	1.4080390783866	"TRIM56"	"81844"	0.0522306890631609	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	1.4080390783866	"TRIM56"	"81844"	0.0522306890631609	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.24h.4"	1.30744520336373	"TRIM56"	"81844"	0.0426315325735421	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	4.34735135028025	"TRIM56"	"81844"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	5.11614839591629	"TRIM56"	"81844"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	4.210868094	"TRIM56"	"81844"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.24h.2"	1.66448473155905	"TRIM56"	"81844"	5.20900888941151e-06	"Homo_sapiens"	"epithelial"	"24h"	"prostosphere"	"male"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60956"	""	"GSE60956"
+"E.Pr.6h.1"	1.84667319728041	"TRIM56"	"81844"	0.00141695180735538	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	3.36525865558858	"WSB1"	"26118"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.24h.2"	1.42918275755654	"WSB1"	"26118"	0.0682906275974442	"Homo_sapiens"	"epithelial"	"24h"	"MDA-MB-31"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53975"	""	"GSE53975"
+"E.Br.24h.3"	1.42918275755654	"WSB1"	"26118"	0.0682906275974442	"Homo_sapiens"	"epithelial"	"24h"	"primaryBreastCancerFragments"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27220"	""	"GSE27220"
+"E.Br.50h.1"	5.52755919993486	"WSB1"	"26118"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	4.68136979812287	"WSB1"	"26118"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	2.41984093	"WSB1"	"26118"	0.378371517	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Lu.24h.1"	1.66545426466871	"WSB1"	"26118"	0.00109714214899856	"Homo_sapiens"	"epithelial"	"24h"	"AlveloarTypeIIcells"	"male/female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46749"	"PMID: 25903964"	"GSE46749"
+"E.Pr.6h.1"	1.54636024678449	"WSB1"	"26118"	0.0092151045816512	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
+"E.Br.20h.1"	2.47933741707643	"ZBTB38"	"253461"	1	"Homo_sapiens"	"epithelial"	"20h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.50h.1"	2.80652781260772	"ZBTB38"	"253461"	1	"Homo_sapiens"	"epithelial"	"50h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.Br.8h.1"	2.29354832665137	"ZBTB38"	"253461"	1	"Homo_sapiens"	"epithelial"	"8h"	"SkBr3"	"female"	"https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19670"	"PMID: 20227041"	"GSE19670"
+"E.HN.24h.1"	2.809486677	"ZBTB38"	"253461"	0.930349438	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.08403136	"ZBTB38"	"253461"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.38437287	"ZBTB38"	"253461"	0.408474318	NA	NA	NA	NA	NA	NA	NA	NA
+"E.HN.24h.1"	3.232901249	"ZBTB38"	"253461"	0.608172873	NA	NA	NA	NA	NA	NA	NA	NA
+"E.Pr.6h.1"	2.11456573427975	"ZBTB38"	"253461"	0.00694063484377017	"Homo_sapiens"	"epithelial"	"6h"	"RWPE1"	NA	NA	NA	NA
