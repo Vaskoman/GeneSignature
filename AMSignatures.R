@@ -13,6 +13,39 @@ uniqGeneTabDown <- function (tableUp, tableDown, celltype) {
   return (adown.u)
 }
 
+averageFC <- function (tab, excols) {
+  # Outputs a table with average FC and the first of 
+  # other values from input table
+  # remove P-values, dataset, species, treatmentTime, sex, GEOlink, papers, and GEO
+  tab <- tab[,
+             !(colnames(tab) %in% excols)]
+  # Sort table based on GENE.ID:
+  tab <- tab[order(tab$Gene.ID),]
+  # extract gene names
+  geneids <- names(table(tab$Gene.ID))
+  # extract appearances of each gene name
+  geneFC <- table(tab$Gene.ID)
+  # Make empty data frame with same # of columns and rows = genes (NAs)
+  averFC <- as.data.frame(matrix(data = NA, nrow = length(geneids),
+                                 ncol = length(names(tab))+1))
+  colnames(averFC) <- c(colnames(tab), "appearances")
+  # Populate table with GENE.NAME and GENE.ID:
+  averFC$Gene.ID <- unique(tab$Gene.ID)
+  
+  # loop over every single gene
+  for (i in geneids){
+    print (i)
+    # subset table to a mini0-table (a) for each gene
+    a <- tab[tab$Gene.ID==i,]
+    # Take average FC and populate table
+    averFC$FC[averFC$Gene.ID==i] <- mean(a$FC)
+    # take first entry from rest of input 
+    averFC[averFC$Gene.ID==i, c("Gene.Name","appearances")] <- c(
+      as.character(a$Gene.Name[1]), dim(a)[1])
+  }
+  return(averFC)
+}
+
 ## setwd, load libraries, & load data ####
 setwd("/home/vassil/Documents/A.Martineau/GeneSignature")
 # load tables with all genes
@@ -133,16 +166,51 @@ rm(list=c("epith.data","tabUp.epith","tabDown.epith","tabUp.epith.u",
 # save as tables:
 write.table(epith.sig, file="epith.sig.txt", sep="\t", row.names = F)
 
-## Stringent epithelium signatures ####
 
 # Get only the 8 genes that also appear in lung:
 lung <- epith.sig[
   epith.sig$Gene.ID %in% epith.sig$Gene.ID[epith.sig$dataset=="E.Lu.24h.1"],]
 write.table (lung, file = "lung.txt", sep="\t", row.names=F)
 
-# Subset genes that are well expressed in GSE47460:
 
+## Make lists with averages ####
 
+# load data:
+pbmc.sign.4.6 <- read.delim("pbmc.sign.4.6.txt")
+pbmc.sign.5.6 <- read.delim("pbmc.sign.5.6.txt")
+epith.sig <- read.delim("epith.sig.txt")
+pbmc.sign.5.6 <- read.delim("pbmc.sign.5.6.txt")
+lung <- read.delim("lung.txt")
 
+# define columns to be excluded:
+excols <- c("dataset","P.Value","species","cellType",
+            "treatmentTime","cellName","sex","GEOlink","papers",
+            "GEO")
 
+# get average tables
+pbmc4out6 <- averageFC(tab = pbmc.sign.4.6, excols = excols)
+pbmc5out6 <- averageFC(tab = pbmc.sign.5.6, excols = excols)
+epith <- averageFC(tab = epith.sig, excols = excols)
+lung.sig <- averageFC(tab = lung, excols = excols)
 
+# sort tables based on FC:
+pbmc4out6 <- pbmc4out6[order(pbmc4out6$FC,decreasing=T),]
+pbmc5out6 <- pbmc5out6[order(pbmc5out6$FC,decreasing=T),]
+epith <- epith[order(epith$FC,decreasing=T),]
+epith.lung <- lung.sig[order(lung.sig$FC,decreasing=T),]
+
+# save tables:
+write.table(pbmc4out6, file="pbmc4out6.txt", sep="\t", row.names = F)
+write.table(pbmc5out6, file="pbmc5out6.txt", sep="\t", row.names = F)
+write.table(epith, file="epith.txt", sep="\t", row.names = F)
+write.table(epith.lung, file="epith.lung.txt", sep="\t", row.names = F)
+
+# average 2-FC and save
+pbmc4out6.2 <- pbmc4out6[abs(pbmc4out6$FC)>=2,]
+pbmc5out6.2 <- pbmc5out6[abs(pbmc5out6$FC)>=2,]
+epith.2 <- epith[abs(epith$FC)>=2,]
+epith.lung.2 <- lung.sig[abs(lung.sig$FC)>=2,]
+write.table(pbmc4out6.2, file="pbmc4out6.2.txt", sep="\t", row.names = F)
+write.table(pbmc5out6.2, file="pbmc5out6.2.txt", sep="\t", row.names = F)
+write.table(epith.2, file="epith.2.txt", sep="\t", row.names = F)
+write.table(epith.lung.2, file="epith.lung.2.txt", sep="\t", row.names = F)
